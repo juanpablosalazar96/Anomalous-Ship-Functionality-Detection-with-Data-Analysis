@@ -15,10 +15,10 @@ The following methods were implemented:
  - **Isolation Forest**: An efficient, scalable algorithm that isolates anomalies by randomly partitioning the feature space, well-suited for high-dimensional datasets.
 # Showcased Skills
 
-  - **Exploratory Data Analysis & Feature Engineering**: Analyzed sensor data distributions, visualized trends, and prepared key engine features for anomaly detection.
+- **Exploratory Data Analysis & Feature Engineering**: Analyzed sensor data distributions, visualized trends, and prepared key engine features for anomaly detection.
 
-  - **Statistical & Machine Learning Methods**: Applied the Interquartile Range (IQR), One-Class SVM, and Isolation Forest techniques to detect outliers and abnormal patterns.
+- **Statistical & Machine Learning Methods**: Applied the Interquartile Range (IQR), One-Class SVM, and Isolation Forest techniques to detect outliers and abnormal patterns.
 
-  - **Model Evaluation & Comparison**: Assessed the strengths and limitations of each method, balancing interpretability, scalability, and detection accuracy.
+- **Model Evaluation & Comparison**: Assessed the strengths and limitations of each method, balancing interpretability, scalability, and detection accuracy.
 
-  - **Clean, Reproducible Coding**: Developed well-structured and documented Python code using pandas, scikit-learn, and matplotlib, ensuring the analysis is transparent and reusable.
+- **Clean, Reproducible Coding**: Developed well-structured and documented Python code using pandas, scikit-learn, and matplotlib, ensuring the analysis is transparent and reusable.
